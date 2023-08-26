@@ -1,7 +1,6 @@
 import {headerLogo} from '../assets/images';
 import {hamburger} from '../assets/icons';
 import { navLinks } from '../constants';
-import Button from './Button';
 import {Link} from 'react-scroll';
 
 const Nav = () => {
@@ -39,8 +38,9 @@ const Nav = () => {
             <div className='max-lg:block hidden'>
                 <img src={hamburger} width={25} height={25} alt="" />
             </div>
-            <div className='max-sm:hidden'>
-                <Button label="Signup" paddingX='px-6' paddingY='py-4' />
+            <div className='max-sm:hidden flex justify-center items-center'>
+                <button className='border-coral-red border-2 py-2 px-6 text-dark font-montserrat font-bold'>SignUp</button>
+                <button  className='bg-coral-red border-coral-red border-2 py-2 px-6 text-white font-montserrat font-bold'>SignIn</button>
             </div>
         </nav>
     </header>
