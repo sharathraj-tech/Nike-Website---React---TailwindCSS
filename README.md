@@ -1,8 +1,38 @@
-# React + Vite
+# Nike Website using React + Vite and Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web application developed using React and Vite.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The **Project Name** is a modern web application that showcases the use of React and Vite to build a fast and efficient user interface. 
+
+## Technologies Used
+
+- **Frontend Framework:** React
+- **Build Tool:** Vite
+- **UI Styling:** [CSS/Sass/Styled Components/Other]
+- **Deployment:** [Vercel]
+
+## Screenshots
+
+![image](https://github.com/sharathraj-tech/Nike-Website---React---TailwindCSS/assets/11161087/a7456857-701c-4b24-a5f9-6433c62f8369)
+
+
+## Installation
+
+1. Clone this repository: `git clone https://github.com/sharathraj-tech/Nike-Website---React---TailwindCSS.git`
+2. Navigate to the project directory: `cd Nike-Website---React---TailwindCSS`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to contribute enhancements, feel free to submit a pull request.
+
+
+## Contact
+
+For any inquiries, please contact Sharath Raj at sharathrj143@gmail.com.
+
+---
