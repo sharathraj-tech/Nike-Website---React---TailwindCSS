@@ -26,7 +26,7 @@ const Footer = () => {
                   <ul>
                     {section.links.map((link)=>(
                       <li key={link.name} className="mt-3 font-montserrat cursor-pointer text-white-400 text-base leading-normal hover:text-slate-gray">
-                        <a href="">{link.name}</a>
+                        <a href="#">{link.name}</a>
                       </li>
                     ))}
                   </ul>
